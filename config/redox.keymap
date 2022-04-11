@@ -23,7 +23,7 @@
 
         default_layer {
             activate-behaviors = <
-               &rgb_ug sethsv (128, 255, 50)
+               &rgb_ug RGB_COLOR_HSB(128, 255, 50)
 	    >;
 
             bindings = <
