@@ -26,7 +26,7 @@
 
         default_layer {
             bindings = <
- &lt 2 GRAVE  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5            &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0  &lt 2 MINUS  &kp TAB   &kp Q   &kp W   &kp F   &kp P   &kp B   &sl 0   &sl 0   &kp J   &kp L   &kp U   &kp Y  &kp SEMI  &kp EQUAL  &kp ESC   &kp A   &kp R  &lt 3 S  &lt 2 T   &kp G  &kp LEFT_BRACKET  &kp RIGHT_BRACKET   &kp M  &lt 2 N  &lt 3 E   &kp I   &kp O  &kp APOS  &kp LSHIFT   &kp Z   &kp X   &kp C   &kp D   &kp V  &tog 1   &mo 5   &mo 5   &mo 4   &kp K   &kp H  &kp COMMA  &kp PERIOD  &kp FSLH  &kp RSHIFT  &kp LEFT_GUI   &none   &none  &kp LALT  &mt LCTRL BACKSLASH  &kp BSPC  &kp DEL  &kp ENTER  &kp SPACE  &kp RCTRL  &kp RALT   &none   &none  &kp RGUI
+ &lt 2 GRAVE  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5            &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0  &lt 2 MINUS  &kp TAB   &kp Q   &kp W   &kp F   &kp P   &kp B   &sl 0   &sl 0   &kp J   &kp L   &kp U   &kp Y  &kp SEMI  &kp EQUAL  &kp ESC   &kp A   &kp R  &lt 3 S  &lt 2 T   &kp G  &kp LEFT_BRACKET  &kp RIGHT_BRACKET   &kp M  &lt 2 N  &lt 3 E   &kp I   &kp O  &kp APOS  &kp LSHIFT   &kp Z   &kp X   &kp C   &kp D   &kp V  &tog 1   &mo 5   &mo 5   &mo 4   &kp K   &kp H  &kp COMMA  &kp PERIOD  &kp FSLH  &kp RSHIFT  &kp LEFT_GUI   &none   &none  &kp LALT  &mt LCTRL BACKSLASH  &kp BSPC  &kp DEL  &kp ENTER  &kp SPACE  &kp RCTRL  &kp LALT   &none   &none  &kp RGUI
             >;
         };
 
