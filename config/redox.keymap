@@ -22,7 +22,11 @@
 
         default_layer {
             bindings = <
- &kp TAB   &none  &kp LBKT  &kp LPAR  &kp LBRC  &kp LT            &kp GT  &kp RBRC  &kp RPAR  &kp RBKT   &none   &none  &tog 0   &kp Q   &kp W   &kp F   &kp P   &kp B   &none   &none   &kp J   &kp L   &kp U   &kp Y  &kp SEMI   &none  &kp CAPS   &kp A   &kp R   &kp S   &kp T   &kp G  &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES   &kp M   &kp N   &kp E   &kp I   &kp O  &kp COLON  &kp LSHIFT   &kp Z   &kp X   &kp C   &kp D   &kp V   &none   &none   &none   &mo 0   &kp K   &kp H  &kp COMMA  &kp PERIOD  &kp FSLH  &kp RSHIFT  &kp LEFT_GUI   &none  &kp ESCAPE  &kp LALT  &kp LCTRL  &kp DEL     &mo  &kp ENTER  &kp SPACE  &kp RCTRL  &kp LALT   &none   &none  &kp RGUI
+                &kp TAB         &none   &kp LBKT    &kp LPAR    &kp LBRC    &kp LT                                                              &kp GT      &kp RBRC    &kp RPAR    &kp RBKT    &none       &none
+                &tog 0          &kp Q   &kp W       &kp F       &kp P       &kp B   &none                               &none                   &kp J       &kp L       &kp U       &kp Y       &kp SEMI    &none
+                &kp CAPS        &kp A   &kp R       &kp S       &kp T       &kp G   &kp SINGLE_QUOTE                    &kp DOUBLE_QUOTES       &kp M       &kp N       &kp E       &kp I       &kp O       &kp COLON
+                &kp LSHIFT      &kp Z   &kp X       &kp C       &kp D       &kp V       &none       &none           &none       &mo 0           &kp K       &kp H       &kp COMMA   &kp PERIOD  &kp FSLH    &kp RSHIFT
+                &kp LEFT_GUI    &none   &kp ESCAPE  &kp LALT        &kp LCTRL           &kp BSPC    &kp DEL         &kp ENTER   &kp SPACE           &kp RCTRL           &kp LALT    &none       &none       &kp RGUI
             >;
         };
 
